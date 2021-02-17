@@ -1,0 +1,36 @@
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Hotel_Management_Systems.exe.config
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Hotel_Management_Systems.exe
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Hotel_Management_Systems.pdb
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csprojAssemblyReference.cache
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.Properties.Resources.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.exe
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.pdb
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Guna.UI2.dll
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csproj.CopyComplete
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.btnExit.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.Dashboard.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_AddRoom.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_CustomerRegisteration.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_CustomerCheckOut.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.CustomerDetails.resources
+C:\Users\berka\source\repos\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_Employee.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Hotel_Management_Systems.exe.config
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Hotel_Management_Systems.exe
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Hotel_Management_Systems.pdb
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\bin\Debug\Guna.UI2.dll
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csprojAssemblyReference.cache
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.CustomerDetails.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_AddRoom.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_CustomerCheckOut.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_CustomerRegisteration.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.All_User_Control.UC_Employee.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.Dashboard.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.btnExit.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.Properties.Resources.resources
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.csproj.CopyComplete
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.exe
+C:\Users\berka\Desktop\C# Proje- Berkay Anılcan BAKO\Source Code\Hotel_Management_Systems\Hotel_Management_Systems\obj\Debug\Hotel_Management_Systems.pdb
